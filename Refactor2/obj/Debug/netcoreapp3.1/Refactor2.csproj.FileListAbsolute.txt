@@ -1,0 +1,13 @@
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.exe
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.deps.json
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.runtimeconfig.json
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.runtimeconfig.dev.json
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.dll
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\bin\Debug\netcoreapp3.1\Refactor2.pdb
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.AssemblyInfoInputs.cache
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.AssemblyInfo.cs
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.csproj.CoreCompileInputs.cache
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.dll
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.pdb
+D:\Blabz\RFP\Generics\Refactor2\Refactor2\obj\Debug\netcoreapp3.1\Refactor2.genruntimeconfig.cache
